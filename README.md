@@ -39,6 +39,3 @@ Example:
 TRUDIR is an open-source project, and contributions are welcome. Feel free to fork the repository, make improvements, and submit pull requests. 
 Your feedback and collaboration help enhance the tool for the entire community.
 
-# trudir
-# trudir
-# trudir
