@@ -24,7 +24,7 @@ A Directory fuzzer in python.
 </pre>
 3. Make it executable
 <pre>
-    sudo chmod -x truscan.py
+    sudo chmod -x trudir.py
 </pre>
 
 
