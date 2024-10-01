@@ -1,0 +1,2 @@
+print_color==0.4.6
+Requests==2.32.3
