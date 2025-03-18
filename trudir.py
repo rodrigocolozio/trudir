@@ -141,7 +141,7 @@ def main():
         ====================================================
         
         Usage ---->   Menu : python3 trudir.py -u <URL> -w <WORDLIST_PATH> -fc <200,301,403>
-                      Choose the status code that yo want to check
+                      Choose the status code that you want to check
 
         trudir v1.2
         Last update: Mar, 2025
